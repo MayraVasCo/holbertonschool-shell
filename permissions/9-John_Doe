@@ -1,0 +1,4 @@
+#!/bin/bash
+chown julien hello
+chmod 750 hello
+chmod o+wx hello

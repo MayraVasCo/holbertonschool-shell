@@ -1,0 +1,2 @@
+#!/bin/bash
+tree -a /io_redirections_and_filters

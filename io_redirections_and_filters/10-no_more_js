@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir ls -lR *.js
+rmdir ls -lR *.js
